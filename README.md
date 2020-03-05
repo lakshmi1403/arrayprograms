@@ -1,0 +1,2 @@
+# arrayprograms
+Hackerrank Array solutions
